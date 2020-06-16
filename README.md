@@ -8,3 +8,6 @@
 
 3. ##### Bit of data analysis in Python - have documented a mini project with code here.
   * [Data Analysis Jupyter](https://github.com/shantanusharma95/DataAnalysisWithPython)
+  
+4. ##### Full Stack Journey - Beginning at the basics, all the way to Django!
+  * [Full Stack](https://github.com/shantanusharma95/FullStack)
